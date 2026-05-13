@@ -1,0 +1,16 @@
+========================================
+ESTUDIANTE: luis
+LENGUAJE UTILIZADO: C++
+FECHA DE REGISTRO: Wed May 13 09:16:26 2026
+PROMEDIO OBTENIDO: 5.6
+NOTAS: 2 9 7 4 6 
+========================================
+
+========================================
+ESTUDIANTE: luis
+LENGUAJE UTILIZADO: C++
+FECHA DE REGISTRO: Wed May 13 09:16:31 2026
+PROMEDIO OBTENIDO: 5.6
+NOTAS: 2 9 7 4 6 
+========================================
+
